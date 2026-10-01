@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.2",
-    "release_date":  "2026-09-29",
-    "changelog":  "Fix tu cap proxy tu dong khi co thiet bi moi va toi uu hoa DNS TCP on dinh cho dien thoai Android/iOS",
+    "version":  "1.1.4",
+    "release_date":  "2026-10-01",
+    "changelog":  "Fix device table fingerprint refresh and default randomized MAC to iPhone",
     "package":  "mmo_update.tar.gz",
-    "sha256":  "e56ef4fd25c9c856fe58ded09e611dd3ea7d716ba5306f43eb747b466fb8fa6f"
+    "sha256":  "fbc83ddbb1a353eda689f4800b48acefb14c3afa7ede255fa338a4c6835a948a"
 }
