@@ -1,7 +1,7 @@
 {
-    "version":  "1.1.4",
+    "version":  "1.2.0",
     "release_date":  "2026-10-01",
-    "changelog":  "Fix device table fingerprint refresh and default randomized MAC to iPhone",
+    "changelog":  "Tich hop Quan Ly VPN tap trung (WireGuard Engine), ho tro NordVPN, Surfshark, Mullvad, Cloudflare WARP va VPS",
     "package":  "mmo_update.tar.gz",
-    "sha256":  "fbc83ddbb1a353eda689f4800b48acefb14c3afa7ede255fa338a4c6835a948a"
+    "sha256":  "eb4c4f47a7de0fe1d4b513b1abe3c3605b633e9a347694a8ad8d9017eceaa600"
 }
