@@ -1,7 +1,7 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "release_date": "2026-10-07",
-    "changelog": "Khóa bảo mật SSH Dropbear chống can thiệp hệ thống, ẩn tính năng đổi pass root trên WebUI, tự động thông mạng và chống mất mạng Internet WAN/LAN",
+    "changelog": "Khắc phục triệt để lỗi kết nối ExpressVPN Timeout, tự động nhúng auth-user-pass cho 214 vị trí, bổ sung route-up/route-down phân luồng và hiện/ẩn mật khẩu an toàn",
     "package": "mmo_update.tar.gz",
-    "sha256": "c902371ba72fcc79d949392d0827bb470f0f36e1feb4a911c98f491b314a6c4c"
+    "sha256": "b099862164f8d35a896c6dc9a5cb58d5627f2c1690cf4485913e67e44531af83"
 }
