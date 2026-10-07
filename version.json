@@ -1,7 +1,7 @@
 {
-    "version":  "1.2.0",
-    "release_date":  "2026-10-01",
-    "changelog":  "Tich hop Quan Ly VPN tap trung (WireGuard Engine), ho tro NordVPN, Surfshark, Mullvad, Cloudflare WARP va VPS",
-    "package":  "mmo_update.tar.gz",
-    "sha256":  "eb4c4f47a7de0fe1d4b513b1abe3c3605b633e9a347694a8ad8d9017eceaa600"
+    "version": "1.2.1",
+    "release_date": "2026-10-07",
+    "changelog": "Fix triệt để lỗi xung đột dải mạng WAN/LAN (192.168.1.x) làm mất mạng, bổ sung danh mục 214 vị trí ExpressVPN và 213 cấu hình .ovpn",
+    "package": "mmo_update.tar.gz",
+    "sha256": "70262a29668ff2d8af5c89bdda7c128c765cd6958f0bc5a0f10214d666e7afa4"
 }
