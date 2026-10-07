@@ -1,7 +1,7 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "release_date": "2026-10-07",
-    "changelog": "Tích hợp sẵn gói lõi OpenVPN ARM64 vào bản cập nhật, sửa dứt điểm lỗi thiếu gói openvpn-openssl trên router",
+    "changelog": "Tự động nạp bộ lõi OpenVPN ARM64 vào mọi đường dẫn hệ thống và cơ chế tự tải phục hồi chống thiếu file",
     "package": "mmo_update.tar.gz",
-    "sha256": "2fc3d4e76687d2027e776c3429b76e7fd7b389b1210217edd96fd8d527bc3168"
+    "sha256": "acccdf2dd9c1d0b589ed7467d516b6e8691e9ea9416eb54e4931de8229cfca94"
 }
