@@ -1,7 +1,7 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "release_date": "2026-10-07",
-    "changelog": "Fix triệt để lỗi xung đột dải mạng WAN/LAN (192.168.1.x) làm mất mạng, bổ sung danh mục 214 vị trí ExpressVPN và 213 cấu hình .ovpn",
+    "changelog": "Khóa bảo mật SSH Dropbear chống can thiệp hệ thống, ẩn tính năng đổi pass root trên WebUI, tự động thông mạng và chống mất mạng Internet WAN/LAN",
     "package": "mmo_update.tar.gz",
-    "sha256": "70262a29668ff2d8af5c89bdda7c128c765cd6958f0bc5a0f10214d666e7afa4"
+    "sha256": "c902371ba72fcc79d949392d0827bb470f0f36e1feb4a911c98f491b314a6c4c"
 }
