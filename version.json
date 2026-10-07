@@ -1,7 +1,7 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "release_date": "2026-10-07",
-    "changelog": "Khắc phục triệt để lỗi kết nối ExpressVPN Timeout, tự động nhúng auth-user-pass cho 214 vị trí, bổ sung route-up/route-down phân luồng và hiện/ẩn mật khẩu an toàn",
+    "changelog": "Tích hợp sẵn gói lõi OpenVPN ARM64 vào bản cập nhật, sửa dứt điểm lỗi thiếu gói openvpn-openssl trên router",
     "package": "mmo_update.tar.gz",
-    "sha256": "b099862164f8d35a896c6dc9a5cb58d5627f2c1690cf4485913e67e44531af83"
+    "sha256": "2fc3d4e76687d2027e776c3429b76e7fd7b389b1210217edd96fd8d527bc3168"
 }
