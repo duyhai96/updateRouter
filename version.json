@@ -1,7 +1,7 @@
 {
-    "version": "1.2.5",
-    "release_date": "2026-10-07",
-    "changelog": "Tự động nạp bộ lõi OpenVPN ARM64 vào mọi đường dẫn hệ thống và cơ chế tự tải phục hồi chống thiếu file",
+    "version": "1.2.6",
+    "release_date": "2026-10-09",
+    "changelog": "Hỗ trợ đầy đủ tiền tố HTTP và HTTPS proxy trong kho tự cấp phát và tự động phân loại giao thức",
     "package": "mmo_update.tar.gz",
-    "sha256": "acccdf2dd9c1d0b589ed7467d516b6e8691e9ea9416eb54e4931de8229cfca94"
+    "sha256": "128635e6737c11263e93a42d53e35e73f5c2a85a13d5a944325176a22aa7161c"
 }
