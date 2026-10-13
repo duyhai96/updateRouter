@@ -1,7 +1,7 @@
 {
-    "version": "1.2.6",
-    "release_date": "2026-10-09",
-    "changelog": "Hỗ trợ đầy đủ tiền tố HTTP và HTTPS proxy trong kho tự cấp phát và tự động phân loại giao thức",
+    "version": "1.2.7",
+    "release_date": "2026-10-13",
+    "changelog": "Mặc định mở thông mạng trực tiếp (fail_closed=false), tự động kích hoạt DHCP WAN, tối ưu định tuyến song song ExpressVPN Router",
     "package": "mmo_update.tar.gz",
-    "sha256": "128635e6737c11263e93a42d53e35e73f5c2a85a13d5a944325176a22aa7161c"
+    "sha256": "3f73035cbedf1cc5f345db0455678d1267eea75bcb1e0425c2e9948d1aafc623"
 }
