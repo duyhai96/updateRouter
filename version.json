@@ -1,7 +1,7 @@
 {
-    "version": "1.3.4",
+    "version": "1.3.5",
     "release_date": "2026-10-13",
-    "changelog": "Bản phát hành v1.3.4: Mở khóa SSH qua WAN cho quản trị, sửa lỗi gán Wi-Fi vào LAN và ổn định DHCP cấp phát IP.",
+    "changelog": "Bản phát hành v1.3.5: Cải tiến bộ kiểm tra Proxy Socks5/HTTP hỗ trợ mật khẩu có ký tự đặc biệt, đa phương thức xác thực và báo lỗi chi tiết.",
     "package": "mmo_update.tar.gz",
-    "sha256": "44dffbaa3dbfd0d0a91baaeadb64f3537db1f3b211be9510b91b2cff17d3abd2"
+    "sha256": "74d6649ccd91be98459ef022f73f0affe200c739a63c9f9016d3fb192091d95d"
 }
