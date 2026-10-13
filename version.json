@@ -3,5 +3,5 @@
     "release_date": "2026-10-13",
     "changelog": "Bản phát hành v1.3.3: Sửa triệt để 2 nút Đi Mạng Gốc / Hủy Mạng Gốc, phân bổ proxy tự động 1-1 chính xác không bị trùng lặp tên, tự động xóa sạch ghost proxy.",
     "package": "mmo_update.tar.gz",
-    "sha256": "4a7f6fb394ca60c606bb7036ff5e568f853ad6b0f648c2cad332679bbc2ad242"
+    "sha256": "a5f4279983ed8be5e0246f03148caf4025c47832cb4d8a8f21bab422e70fb8b4"
 }
