@@ -1,7 +1,7 @@
 {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "release_date": "2026-10-13",
-    "changelog": "Bản phát hành v1.3.1: Sửa triệt để lỗi gán proxy nhưng ra IP gốc (hỗ trợ mọi định dạng proxy có user:pass@host:port, triệt tiêu xung đột tên proxy, chống rò rỉ IPv6, kích hoạt phân luồng toàn bộ lưu lượng qua proxy).",
+    "changelog": "Bản phát hành v1.3.2: Sửa triệt để lỗi bấm cập nhật xoay xong hiện lại bảng cập nhật (chống rò rỉ stdout CGI), sửa dứt điểm lỗi bấm hủy Mạng Gốc reload lại vẫn hiện Mạng Gốc (chuẩn hóa direct_wan_devices và reset proxy unassigned).",
     "package": "mmo_update.tar.gz",
-    "sha256": "882b7923908290689b622878098ced487e4993340984160b48022445a2431041"
+    "sha256": "d95dc8d0b3af8e49e6fbe7e9a1a909f7b3ed093ba67a6063d83188e2d6fdafa3"
 }
