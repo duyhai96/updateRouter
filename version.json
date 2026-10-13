@@ -3,5 +3,5 @@
     "release_date": "2026-10-13",
     "changelog": "Mặc định mở thông mạng trực tiếp (fail_closed=false), tự động kích hoạt DHCP WAN, tối ưu định tuyến song song ExpressVPN Router",
     "package": "mmo_update.tar.gz",
-    "sha256": "3f73035cbedf1cc5f345db0455678d1267eea75bcb1e0425c2e9948d1aafc623"
+    "sha256": "d644c9cd5b1672f8643ff5077c5cba2f2ca67f4f9714c7718e67ca334dfe3b2e"
 }
