@@ -3,5 +3,5 @@
     "release_date": "2026-10-13",
     "changelog": "Sửa triệt để lỗi Bypass bị mất trạng thái khi reload trang, sửa lỗi iPhone/thiết bị gán proxy vẫn dính IP gốc (đồng bộ proxy pool Base64, kích hoạt table 100, xả session conntrack và auto-lifetime)",
     "package": "mmo_update.tar.gz",
-    "sha256": "f20508aa0aa9f65acc209158dec00cc8825822e7fdb7c6b94cee6e3aa32ac486"
+    "sha256": "dcfcd15bbb992065bed9956603427e4c385754c62e80f437792386701e9d3934"
 }
