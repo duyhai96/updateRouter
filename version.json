@@ -1,7 +1,7 @@
 {
-    "version": "1.2.8",
+    "version": "1.2.9",
     "release_date": "2026-10-13",
-    "changelog": "Sửa triệt để lỗi mất thiết bị khi gán proxy trên router khách, hỗ trợ quét toàn bộ card Wi-Fi (wlan/ra/rax), tự động nhận diện dải mạng LAN, bảo toàn vĩnh viễn mapping thiết bị",
+    "changelog": "Sửa triệt để lỗi Bypass bị mất trạng thái khi reload trang, sửa lỗi iPhone/thiết bị gán proxy vẫn dính IP gốc (đồng bộ proxy pool Base64, kích hoạt table 100, xả session conntrack và auto-lifetime)",
     "package": "mmo_update.tar.gz",
-    "sha256": "72ee4ef1dc74ea8dffaebdaf20c03ab86c2b483ac2494cd5894d2c516ab877e1"
+    "sha256": "ea4e16a66098fd28a2ceb2f55163298ccc2a6711fc4d92215776744d94b55dd3"
 }
