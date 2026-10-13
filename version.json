@@ -3,5 +3,5 @@
     "release_date": "2026-10-13",
     "changelog": "Bản phát hành v1.3.1: Sửa triệt để lỗi gán proxy nhưng ra IP gốc (hỗ trợ mọi định dạng proxy có user:pass@host:port, triệt tiêu xung đột tên proxy, chống rò rỉ IPv6, kích hoạt phân luồng toàn bộ lưu lượng qua proxy).",
     "package": "mmo_update.tar.gz",
-    "sha256": "692b7574bb6ea345a1a718e7d70d118ad141ea6a7ede62f4b9f1a9db1766e764"
+    "sha256": "882b7923908290689b622878098ced487e4993340984160b48022445a2431041"
 }
