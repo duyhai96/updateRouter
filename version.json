@@ -1,7 +1,7 @@
 {
-    "version": "1.2.7",
+    "version": "1.2.8",
     "release_date": "2026-10-13",
-    "changelog": "Mặc định mở thông mạng trực tiếp (fail_closed=false), tự động kích hoạt DHCP WAN, tối ưu định tuyến song song ExpressVPN Router",
+    "changelog": "Sửa triệt để lỗi mất thiết bị khi gán proxy trên router khách, hỗ trợ quét toàn bộ card Wi-Fi (wlan/ra/rax), tự động nhận diện dải mạng LAN, bảo toàn vĩnh viễn mapping thiết bị",
     "package": "mmo_update.tar.gz",
-    "sha256": "2431c539cae32bed2b2e1d19c7fe4fd122afdf935bf4970e813ae8d2b53128b3"
+    "sha256": "72ee4ef1dc74ea8dffaebdaf20c03ab86c2b483ac2494cd5894d2c516ab877e1"
 }
