@@ -1,7 +1,7 @@
 {
-    "version": "1.2.9",
+    "version": "1.3.0",
     "release_date": "2026-10-13",
-    "changelog": "Sửa triệt để lỗi Bypass bị mất trạng thái khi reload trang, sửa lỗi iPhone/thiết bị gán proxy vẫn dính IP gốc (đồng bộ proxy pool Base64, kích hoạt table 100, xả session conntrack và auto-lifetime)",
+    "changelog": "Bản phát hành v1.3.0: Nổi bật nút Mạng Gốc (Direct WAN) xanh lá trực quan, chống nhảy về Gán Thủ Công khi bật Tự Động, bảo vệ thiết bị đi Mạng Gốc không bị gán đè proxy và tối ưu truy cập web mượt mà.",
     "package": "mmo_update.tar.gz",
-    "sha256": "767e8d3256cc0fef96198957aca29016f0c171436b8ba37e04ee8fe80361c2c8"
+    "sha256": "136eddd3d2d0bacd4b68b15fd30b6e3a498d15d079e7f47ce36956e268674be2"
 }
