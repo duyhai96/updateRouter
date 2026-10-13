@@ -3,5 +3,5 @@
     "release_date": "2026-10-14",
     "changelog": "Bản phát hành v1.3.7: Sửa triệt để lỗi DNS dnsmasq crash loop do trùng lặp DHCP static host, khôi phục hoàn toàn kiểm tra Proxy và cấp mạng Wi-Fi.",
     "package": "mmo_update.tar.gz",
-    "sha256": "6451b78b78e1ee21bd847db5ae100ea98956f049d54d9902955b80f2194087d9"
+    "sha256": "b491e8db6ac87f7c2b019b9137a0644fdd2e65145d223803218102fc89fc6205"
 }
