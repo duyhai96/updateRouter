@@ -1,7 +1,7 @@
 {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "release_date": "2026-10-13",
-    "changelog": "Bản phát hành v1.3.0: Nổi bật nút Mạng Gốc (Direct WAN) xanh lá trực quan, chống nhảy về Gán Thủ Công khi bật Tự Động, bảo vệ thiết bị đi Mạng Gốc không bị gán đè proxy và tối ưu truy cập web mượt mà.",
+    "changelog": "Bản phát hành v1.3.1: Sửa triệt để lỗi gán proxy nhưng ra IP gốc (hỗ trợ mọi định dạng proxy có user:pass@host:port, triệt tiêu xung đột tên proxy, chống rò rỉ IPv6, kích hoạt phân luồng toàn bộ lưu lượng qua proxy).",
     "package": "mmo_update.tar.gz",
-    "sha256": "136eddd3d2d0bacd4b68b15fd30b6e3a498d15d079e7f47ce36956e268674be2"
+    "sha256": "692b7574bb6ea345a1a718e7d70d118ad141ea6a7ede62f4b9f1a9db1766e764"
 }
