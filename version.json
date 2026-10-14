@@ -3,5 +3,5 @@
     "release_date": "2026-10-14",
     "changelog": "Bản phát hành v1.3.8: Tối ưu 0ms chuyển đổi Mạng Gốc (Direct WAN) tức thì không cần tải lại trang. Tự động khắc phục triệt để lỗi mất mạng Internet, mở Forwarding/NAT, fix crash dnsmasq.",
     "package": "mmo_update.tar.gz",
-    "sha256": "411a25ed604b422dad15f2913e5349e6deb5c6d63575d8c5321fc268e7b144d5"
+    "sha256": "6d6007a1caac54e10605afc029258fd0436a34746d6211ad0d7c9f5c712080ac"
 }
