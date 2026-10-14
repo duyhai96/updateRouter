@@ -1,7 +1,7 @@
 {
-    "version": "1.3.7",
+    "version": "1.3.8",
     "release_date": "2026-10-14",
-    "changelog": "Bản phát hành v1.3.7: Sửa triệt để lỗi DNS dnsmasq crash loop do trùng lặp DHCP static host, khôi phục hoàn toàn kiểm tra Proxy và cấp mạng Wi-Fi.",
+    "changelog": "Bản phát hành v1.3.8: Tối ưu 0ms chuyển đổi Mạng Gốc (Direct WAN) tức thì không cần tải lại trang. Tự động khắc phục triệt để lỗi mất mạng Internet, mở Forwarding/NAT, fix crash dnsmasq.",
     "package": "mmo_update.tar.gz",
-    "sha256": "b491e8db6ac87f7c2b019b9137a0644fdd2e65145d223803218102fc89fc6205"
+    "sha256": "bf3000b9da703892fae7b92b68d47e1da1ff2dc14762d6b39a94df71a0c91bfc"
 }
