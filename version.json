@@ -1,7 +1,7 @@
 {
-    "version": "1.4.0",
-    "release_date": "2026-10-15",
-    "changelog": "Bản phát hành v1.4.0: Sửa triệt để lỗi lưu Quy tắc định tuyến tên miền (Domain Routing Mode & Lists), bảo toàn cấu hình khi chuyển đổi chế độ, giao diện di động siêu tối ưu.",
+    "version": "1.4.6",
+    "release_date": "2026-10-18",
+    "changelog": "Bản phát hành v1.4.6: Cập nhật công thức tính RAM chuẩn Linux free -m (140MB / 28%), tối ưu hiển thị tài nguyên toàn diện.",
     "package": "mmo_update.tar.gz",
-    "sha256": "07b0f7acf6f7c4d7f627ec9fa7640ef99f5f7dab73c038d2f978038dddde75ea"
+    "sha256": "8966e96715df4aa1464864e699c98f907acc43a3dcf709f90fd579c2e7f6092f"
 }
