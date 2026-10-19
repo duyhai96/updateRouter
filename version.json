@@ -1,7 +1,7 @@
 {
-    "version": "1.4.6",
-    "release_date": "2026-10-18",
-    "changelog": "Bản phát hành v1.4.6: Cập nhật công thức tính RAM chuẩn Linux free -m (140MB / 28%), tối ưu hiển thị tài nguyên toàn diện.",
-    "package": "mmo_update.tar.gz",
-    "sha256": "8966e96715df4aa1464864e699c98f907acc43a3dcf709f90fd579c2e7f6092f"
+    "version":  "1.4.7",
+    "release_date":  "2026-10-19",
+    "changelog":  "v1.4.7: Ho tro da dang dinh dang proxy (user:pass:host:port), tu dong nhan dien HTTP, sua loi hien thi danh sach domain routing khi load lai trang",
+    "package":  "mmo_update.tar.gz",
+    "sha256":  "2c929fb1e70a605759f11bea4fdbb167d23438b005816b8830794340b127f5d5"
 }
