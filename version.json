@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.7",
-    "release_date":  "2026-10-19",
-    "changelog":  "v1.4.7: Ho tro da dang dinh dang proxy (user:pass:host:port), tu dong nhan dien HTTP, sua loi hien thi danh sach domain routing khi load lai trang",
-    "package":  "mmo_update.tar.gz",
-    "sha256":  "2c929fb1e70a605759f11bea4fdbb167d23438b005816b8830794340b127f5d5"
+    "version": "1.4.8",
+    "release_date": "2026-10-23",
+    "changelog": "v1.4.8: Khac phuc triet de loi nghen DNS, toi uu Sing-Box TPROXY doc lap voi LAN va WebUI, on dinh ket noi toan bo thiet bi",
+    "package": "mmo_update.tar.gz",
+    "sha256": "5d131a06f43858f97d1c9d12c321319119772e07cb4942f29f89b6d703f67037"
 }
