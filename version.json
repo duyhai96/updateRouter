@@ -1,7 +1,7 @@
 {
-    "version": "1.4.9",
+    "version": "1.5.0",
     "release_date": "2026-11-11",
-    "changelog": "v1.4.9: fix auth background polling input overwrite",
+    "changelog": "v1.5.0: Fix triet de loi ghi de thong tin tai khoan ExpressVPN khi load lai trang, toi uu dong bo OTA",
     "package": "mmo_update.tar.gz",
-    "sha256": "7f3a8a761baa79708aa9016291cd68321d2b7f7113631d5dfe2cad3a8421ec5f"
+    "sha256": "83330f45cdcb0dec76e03b4c4fb9667597d19e2936c1246c5655c29c766d78cd"
 }
