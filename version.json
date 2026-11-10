@@ -1,7 +1,7 @@
 {
     "version": "1.4.9",
-    "release_date": "2026-11-10",
-    "changelog": "v1.4.9: Dong bo danh sach 213 vi tri ExpressVPN, loai bo vi tri UAE loi thieu file cau hinh, toi uu cap nhat OTA",
+    "release_date": "2026-11-11",
+    "changelog": "v1.4.9: Dong bo danh sach 213 vi tri ExpressVPN, fix browser autofill",
     "package": "mmo_update.tar.gz",
-    "sha256": "a31a36a81a785b9af424a071412b42e8d519b940920fc52408d843615e1de546"
+    "sha256": "72c2747bb37144cc862862499bcf55a5ef0570f36222464c5c7e714d37a32ba1"
 }
