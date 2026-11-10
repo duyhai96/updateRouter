@@ -1,7 +1,7 @@
 {
-    "version": "1.4.8",
-    "release_date": "2026-10-23",
-    "changelog": "v1.4.8: Khac phuc triet de loi nghen DNS, toi uu Sing-Box TPROXY doc lap voi LAN va WebUI, on dinh ket noi toan bo thiet bi",
+    "version": "1.4.9",
+    "release_date": "2026-11-10",
+    "changelog": "v1.4.9: Dong bo danh sach 213 vi tri ExpressVPN, loai bo vi tri UAE loi thieu file cau hinh, toi uu cap nhat OTA",
     "package": "mmo_update.tar.gz",
-    "sha256": "5d131a06f43858f97d1c9d12c321319119772e07cb4942f29f89b6d703f67037"
+    "sha256": "766cac0ec5dbd7821bb75763122277a69e9f90308609216316a15fede1050e60"
 }
