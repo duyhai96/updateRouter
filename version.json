@@ -1,7 +1,7 @@
 {
     "version": "1.4.9",
     "release_date": "2026-11-11",
-    "changelog": "v1.4.9: Dong bo danh sach 213 vi tri ExpressVPN, fix browser autofill",
+    "changelog": "v1.4.9: fix auth background polling input overwrite",
     "package": "mmo_update.tar.gz",
-    "sha256": "72c2747bb37144cc862862499bcf55a5ef0570f36222464c5c7e714d37a32ba1"
+    "sha256": "7f3a8a761baa79708aa9016291cd68321d2b7f7113631d5dfe2cad3a8421ec5f"
 }
