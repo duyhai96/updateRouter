@@ -1,7 +1,7 @@
 {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "release_date": "2026-11-11",
-    "changelog": "v1.5.0: Fix triet de loi ghi de thong tin tai khoan ExpressVPN khi load lai trang, toi uu dong bo OTA",
+    "changelog": "v1.5.1: Bo sung day du vi tri UAE (AE - Dubai) vao danh sach 214 vi tri ExpressVPN va kho cau hinh OTA",
     "package": "mmo_update.tar.gz",
-    "sha256": "83330f45cdcb0dec76e03b4c4fb9667597d19e2936c1246c5655c29c766d78cd"
+    "sha256": "b31ce1bbea33115f505f5dcf286d503b78adb9e1ecd6c766f5282d953001ab25"
 }
