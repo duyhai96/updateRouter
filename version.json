@@ -1,7 +1,7 @@
 {
-    "version": "1.5.3",
+    "version": "1.5.4",
     "release_date": "2026-11-24",
-    "changelog": "v1.5.3: Hoan thien doc lap Wi-Fi NordVPN va ExpressVPN, phat song chuan MediaTek Wi-Fi 6",
+    "changelog": "v1.5.4: Fix loi iPhone ket noi Wi-Fi khong co mang, bo sung du phong WAN va sua loi firewall",
     "package": "mmo_update.tar.gz",
-    "sha256": "a5c960c4f6412383578e9763470ce0975ee5b9775b5423d4ff04290223b7c990"
+    "sha256": "d29692c946a43641e6a82da692482d6372605aa2eaefbaca19e902cdf5fbfb91"
 }
