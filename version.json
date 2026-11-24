@@ -1,7 +1,7 @@
 {
-    "version": "1.5.5",
+    "version": "1.5.6",
     "release_date": "2026-11-24",
-    "changelog": "v1.5.5: Hoan thien tim kiem US va hien thi 50 Bang My",
+    "changelog": "Triển khai hệ thống NordVPN Multi-SSID Multi-Country: hỗ trợ đồng thời 3 Wi-Fi riêng biệt kết nối 3 quốc gia/bang khác nhau",
     "package": "mmo_update.tar.gz",
-    "sha256": "9dc3d4e5f4112c1f56c4fc31180ad25f9a7a4fc7dafdec8e3db32aaeef11e1bb"
+    "sha256": "db01dd97e69d5c5c294afc3583791a44dc10cb962c6286381939d00c926427e1"
 }
