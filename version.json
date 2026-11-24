@@ -1,7 +1,7 @@
 {
-    "version": "1.5.4",
+    "version": "1.5.5",
     "release_date": "2026-11-24",
-    "changelog": "v1.5.4: Fix loi iPhone ket noi Wi-Fi khong co mang, bo sung du phong WAN va sua loi firewall",
+    "changelog": "v1.5.5: Bo sung chon chi tiet 50 Bang cua My (US States) cho NordVPN WireGuard",
     "package": "mmo_update.tar.gz",
-    "sha256": "d29692c946a43641e6a82da692482d6372605aa2eaefbaca19e902cdf5fbfb91"
+    "sha256": "250772d6d1571f8159a82712d51038289ac72c88a93d629ba02ba6796e16b429"
 }
