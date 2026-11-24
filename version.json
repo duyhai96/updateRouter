@@ -1,7 +1,7 @@
 {
-    "version": "1.5.6",
+    "version": "1.5.7",
     "release_date": "2026-11-24",
-    "changelog": "Triển khai hệ thống NordVPN Multi-SSID Multi-Country: hỗ trợ đồng thời 3 Wi-Fi riêng biệt kết nối 3 quốc gia/bang khác nhau",
+    "changelog": "Sửa triệt để lỗi lưu proxy thủ công bị mất khi tải lại trang và tối ưu tìm kiếm 50 bang NordVPN",
     "package": "mmo_update.tar.gz",
-    "sha256": "db01dd97e69d5c5c294afc3583791a44dc10cb962c6286381939d00c926427e1"
+    "sha256": "c3a8feb3ac216cbb2d73b78a91b7003cd5f20ef7b22064f2f09b3ecb33d12dd0"
 }
