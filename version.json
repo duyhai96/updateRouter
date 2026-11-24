@@ -1,7 +1,7 @@
 {
-    "version": "1.5.1",
-    "release_date": "2026-11-11",
-    "changelog": "v1.5.1: Bo sung day du vi tri UAE (AE - Dubai) vao danh sach 214 vi tri ExpressVPN va kho cau hinh OTA",
+    "version": "1.5.2",
+    "release_date": "2026-11-24",
+    "changelog": "v1.5.2: Sua loi gan proxy thu cong tung may, bo sung nut Luu truc tiep va phim Enter, sua hien thi proxy URL va xac thuc IP",
     "package": "mmo_update.tar.gz",
-    "sha256": "b31ce1bbea33115f505f5dcf286d503b78adb9e1ecd6c766f5282d953001ab25"
+    "sha256": "5d45da320e02b98fd017b4fb26e0421aa376ad32f0b4edbabfc2290257b11435"
 }
