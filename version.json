@@ -1,7 +1,7 @@
 {
-    "version": "1.5.7",
+    "version": "1.5.8",
     "release_date": "2026-11-24",
-    "changelog": "Sửa triệt để lỗi lưu proxy thủ công bị mất khi tải lại trang và tối ưu tìm kiếm 50 bang NordVPN",
+    "changelog": "Giữ nguyên chuỗi định dạng proxy trong ô nhập text ngay khi bấm Lưu và khi tải lại trang",
     "package": "mmo_update.tar.gz",
-    "sha256": "c3a8feb3ac216cbb2d73b78a91b7003cd5f20ef7b22064f2f09b3ecb33d12dd0"
+    "sha256": "c4865f32e079c14317aac387faf75c387670a716d5331aec768c464c899a3169"
 }
