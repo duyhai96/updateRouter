@@ -1,7 +1,7 @@
 {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "release_date": "2026-11-24",
-    "changelog": "v1.5.2: Sua loi gan proxy thu cong tung may, bo sung nut Luu truc tiep va phim Enter, sua hien thi proxy URL va xac thuc IP",
+    "changelog": "v1.5.3: Tich hop toan dien NordVPN WireGuard (NordLynx), Wi-Fi rieng va chon 150 quoc gia 1-Click",
     "package": "mmo_update.tar.gz",
-    "sha256": "5d45da320e02b98fd017b4fb26e0421aa376ad32f0b4edbabfc2290257b11435"
+    "sha256": "8d3353ed85065fe73caa33e76a6e5f24ddb6ffa66c1586936244107399d4d7d7"
 }
