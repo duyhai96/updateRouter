@@ -1,7 +1,7 @@
 {
     "version": "1.5.5",
     "release_date": "2026-11-24",
-    "changelog": "v1.5.5: Fix tim kiem US va hien thi day du 50 Bang My",
+    "changelog": "v1.5.5: Hoan thien tim kiem US va hien thi 50 Bang My",
     "package": "mmo_update.tar.gz",
-    "sha256": "f52bf8c9aafadd1f764cbbed8f1d4c1a5c6819f377bf6924e982503b6931f15f"
+    "sha256": "9dc3d4e5f4112c1f56c4fc31180ad25f9a7a4fc7dafdec8e3db32aaeef11e1bb"
 }
