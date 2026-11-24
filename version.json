@@ -1,7 +1,7 @@
 {
     "version": "1.5.5",
     "release_date": "2026-11-24",
-    "changelog": "v1.5.5: Bo sung chon chi tiet 50 Bang cua My (US States) cho NordVPN WireGuard",
+    "changelog": "v1.5.5: Fix tim kiem US va hien thi day du 50 Bang My",
     "package": "mmo_update.tar.gz",
-    "sha256": "250772d6d1571f8159a82712d51038289ac72c88a93d629ba02ba6796e16b429"
+    "sha256": "f52bf8c9aafadd1f764cbbed8f1d4c1a5c6819f377bf6924e982503b6931f15f"
 }
