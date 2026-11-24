@@ -1,7 +1,7 @@
 {
     "version": "1.5.3",
     "release_date": "2026-11-24",
-    "changelog": "v1.5.3: Ho tro tai len file .conf va trich xuat Private Key NordVPN tu dong",
+    "changelog": "v1.5.3: Fix layout NordVPN va tach rieng biet hoan toan Wi-Fi SSID cua ExpressVPN va NordVPN",
     "package": "mmo_update.tar.gz",
-    "sha256": "aeaa20e9649fc32a608a476f1438f445c9cb9f019b9db70706e5c2f5159a8d56"
+    "sha256": "ffe4b417ca658ed3ee7c1c4d220d39217343c854475913f7df5a702fe7570304"
 }
